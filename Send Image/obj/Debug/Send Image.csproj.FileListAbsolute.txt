@@ -1,0 +1,11 @@
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\bin\Debug\Send Image.exe.config
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\bin\Debug\Send Image.exe
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\bin\Debug\Send Image.pdb
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send Image.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send_Image.Form1.resources
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send_Image.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send Image.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send Image.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send Image.exe
+C:\Users\Amiraslan\source\repos\Send and Receive image\Send Image\obj\Debug\Send Image.pdb
